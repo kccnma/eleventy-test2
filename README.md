@@ -1,6 +1,8 @@
 # Eleventy Test Two
 Another eleventy test, this time from scratch with minimal config and no npm.
 
+[View Demo](https://kccnma.github.io/eleventy-test2/)
+
 ## Goals/Constraints:
 * no npm (no package.json, no node modules, no npm install, etc)
 * minimal config (easy to understand and get up and running right out of the box)
