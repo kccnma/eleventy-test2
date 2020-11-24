@@ -7,7 +7,7 @@ module.exports = function (eleventyConfig) {
     return {
         dir: {
             input: 'src',
-            output: 'docs' // temporarilly changed from "dist" for github pages demo
+            output: 'dist'
         },
         // if posting in a sub directory, use pathPrefix
         // pathPrefix: '/mysubdir/pathtosite/',
