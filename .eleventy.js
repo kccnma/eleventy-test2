@@ -8,7 +8,9 @@ module.exports = function (eleventyConfig) {
         dir: {
             input: 'src',
             output: 'dist'
-        },
+        }
+
+        //,
         // if posting in a sub directory, use pathPrefix
         // pathPrefix: '/mysubdir/pathtosite/',
     };
